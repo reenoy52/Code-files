@@ -1,0 +1,16 @@
+<!DOCTYPE html> 
+<html> 
+<!-- head tag -->
+
+<head> 
+	<title>Welcom to webpage</title> 
+</head> 
+<!-- Body tag -->
+
+<body> 
+	<h2>Good morning</h2> 
+	<p> 
+		A Computer Science Portal 
+  </p>  
+</body> 
+</html>
